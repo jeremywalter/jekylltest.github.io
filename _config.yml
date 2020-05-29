@@ -1,3 +1,15 @@
 theme: jekyll-theme-hacker
 title: Jekyll Deployment - Hack Theme - Vidlet Test
 description: First attempt to stand-up a jekyll site to showcase tutorial materials
+
+# List of links in the navigation bar
+navbar-links:
+  About:
+  Tutorials: 
+    - Snakemake Lesson 1: ""
+    - Snakemake Lesson 2: "" 
+  Associated Projects:
+    - Data Carpentry: "http://www.datacarpentry.org/cloud-genomics/"
+    - GK12: "http://kbsgk12project.kbs.msu.edu/search-lesson-plans/"
+    - angus: "http://angus.readthedocs.io/en/2019/"
+    - CFDE: "https://commonfund.nih.gov/dataecosystem"
