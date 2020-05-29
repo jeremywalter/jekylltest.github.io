@@ -1,5 +1,11 @@
-## Welcome to GitHub Pages
+## Snakemake Vidlet Lesso
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-h9qHHpA2vI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Snakemake Vidlet 1](https://www.youtube.com/watch?v=-h9qHHpA2vI&feature=youtu.be)
+
+[Snakemake Lesson Script](https://hackmd.io/gfZKTstPS7SmS7Vi6TMqVw?view)
 You can use the [editor on GitHub](https://github.com/jeremywalter/jekylltest.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
